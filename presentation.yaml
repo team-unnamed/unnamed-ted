@@ -1,0 +1,14 @@
+# num : 한 주에 2명씩 발표를 하기에 각 발표를 구분하고자 넣음
+# week : 몇 주차에 발표를 했는가
+# presenter : 발표자
+# topic : 발표 주제
+# category : 발표 주제의 카테고리, 여러개 입력 가능
+
+- num: "1"
+  week: "1"
+  presenter: "길희"
+  topic: "ImageNet Dataset & AlexNet"
+  date: "2021.09.16"
+  category: 
+    - "dataset"
+    - "Image Classification"
