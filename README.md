@@ -13,6 +13,6 @@
 
 ### Presentation
 
-|No.|Week|발표자|발표 주제|카테고리|
-|:---|:---:|:---:|:---:|:---:|
-|1|1|길희|[ImageNet Dataset & AlexNet](Week1/Gilhee)|dataset</br>Image Classification|
+|Week|발표자|발표 주제|카테고리|
+|:---|:---:|:---:|:---:|
+|1|길희|[ImageNet Dataset & AlexNet](Week1/Gilhee)|dataset</br>Image Classification|
