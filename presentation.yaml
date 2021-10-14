@@ -11,3 +11,19 @@
   category: 
     - "dataset"
     - "Image Classification"
+
+- week: "2"
+  presenter: "형주"
+  topic: "Open-domain QA"
+  date: "2021.09.30"
+  category: 
+    - "QA"
+
+- week: "3"
+  presenter: "익재"
+  topic: "ResNet Family Architectures"
+  date: "2021.10.07"
+  category: 
+    - "Computer Vision"
+    - "ResNet"
+    - "Skip Connections"
