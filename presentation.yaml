@@ -19,6 +19,13 @@
   category: 
     - "QA"
 
+- week: "2"
+  presenter: "지인"
+  topic: "벡터와 행렬, 최적화"
+  date: "2021.09.30"
+  category: 
+    - "Optimization"
+
 - week: "3"
   presenter: "익재"
   topic: "ResNet Family Architectures"
