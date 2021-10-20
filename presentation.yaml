@@ -34,3 +34,11 @@
     - "Computer Vision"
     - "ResNet"
     - "Skip Connections"
+
+- week: "4"
+  presenter: "길희"
+  topic: "Vision Transformer"
+  date: "2021.10.19"
+  category: 
+    - "Computer Vision"
+    - "Transformer"
