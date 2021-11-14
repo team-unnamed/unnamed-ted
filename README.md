@@ -20,3 +20,4 @@
 |2|지인|[벡터와 행렬, 최적화](Week2/Jiin)|Optimization|
 |3|익재|[ResNet Family Architectures](Week3/Justin)|Computer Vision</br>ResNet</br>Skip Connections|
 |4|길희|[Vision Transformer](Week4/Gilhee)|Computer Vision</br>Transformer|
+|6|익재|[Introduction to Reinforcement Learning](Week6/Justin)|Reinforcement Learning|
