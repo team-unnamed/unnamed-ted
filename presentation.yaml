@@ -42,3 +42,10 @@
   category: 
     - "Computer Vision"
     - "Transformer"
+
+- week: "6"
+  presenter: "익재"
+  topic: "Introduction to Reinforcement Learning"
+  date: "2021.11.04"
+  category: 
+    - "Reinforcement Learning"
