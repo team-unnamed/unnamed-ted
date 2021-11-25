@@ -49,3 +49,10 @@
   date: "2021.11.04"
   category: 
     - "Reinforcement Learning"
+
+- week: "8"
+  presenter: "형주"
+  topic: "BlenderBot 2.0"
+  date: "2021.11.25"
+  category:
+    - "BlenderBot 2"
