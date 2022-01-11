@@ -21,3 +21,5 @@
 |3|익재|[ResNet Family Architectures](Week3/Justin)|Computer Vision</br>ResNet</br>Skip Connections|
 |4|길희|[Vision Transformer](Week4/Gilhee)|Computer Vision</br>Transformer|
 |6|익재|[Introduction to Reinforcement Learning](Week6/Justin)|Reinforcement Learning|
+|8|형주|[BlenderBot 2.0](Week8/Hyungjoo)|BlenderBot 2|
+|9|익재|[Masked autoencoder](Week9/Justin)|Computer vision</br>ViT</br>self-supervised pre-training|

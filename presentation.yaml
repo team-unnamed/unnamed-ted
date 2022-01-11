@@ -56,3 +56,13 @@
   date: "2021.11.25"
   category:
     - "BlenderBot 2"
+
+- week: "9"
+  presenter: "익재"
+  topic: "Masked autoencoder"
+  date: "2022.01.11"
+  category:
+    - "Computer vision"
+    - "ViT"
+    - "self-supervised pre-training"
+        
